@@ -81,8 +81,6 @@ Open the app at `http://localhost:5173` and make sure JSON Server is running on 
 
 ## 🖼️ Screenshots
 
-> These are placeholder image links. Replace them with actual screenshots from your app.
-
 ![Home Dashboard](screenshots/home-dashboard.png)
 ![Employee Table](screenshots/all-employees.png)
 ![Create Employee](screenshots/create-employee.png)
@@ -132,8 +130,3 @@ The app uses `backend/db.json` with sample accounts and employees:
 }
 ```
 
-## 💡 Notes
-
-- The app currently uses a simple client-side token stored in `localStorage` for authentication.
-- Replace the screenshot placeholders with real captures from your running app for a polished README.
-- I can also add a `Docker` or `Production Build` section if you want.
