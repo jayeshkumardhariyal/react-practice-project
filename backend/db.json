@@ -1,0 +1,37 @@
+{
+  "users": [
+    {
+      "username": "Jayesh Dhariyal",
+      "email": "jayeshkumardhariyal@gmail.com",
+      "password": "12345",
+      "id": "eokr7JA3m7Q"
+    },
+    {
+      "username": "Aayush sharma",
+      "email": "aayushsharma@gmail.com",
+      "password": "Aayush@112",
+      "id": "YO14vozX90s"
+    }
+  ],
+  "employee": [
+    {
+      "firstName": "Jayesh",
+      "lastName": "DHARIYAL",
+      "email": "jayeshkumar@gmail.com",
+      "age": "22",
+      "designation": "product manager",
+      "doj": "2021-02-10",
+      "id": "cO3hnVE"
+    },
+    {
+      "firstName": "Jay",
+      "lastName": "DHARIYAL",
+      "email": "jayesh@gmail.com",
+      "age": "22",
+      "designation": "software manager",
+      "doj": "2021-08-22",
+      "id": "cO3hnVEn2"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
