@@ -16,7 +16,7 @@ const SignupPage = () => {
     console.log(formData);
     try {
       let resp = await axios.post("http://localhost:5000/users", formData);
-      console.log(resp);
+      console.log(resp);  
     } catch (error) {
       console.log(error);
     }
